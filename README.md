@@ -36,21 +36,7 @@ Capture and analyze VoIP traffic using Wireshark. This project covers capturing 
 - **Key Topics:** VoIP Traffic, SIP, RTP, Call Analysis, Playback
 - **Tools:** Wireshark, VoIP Network or Sample PCAP Files
 
-## Getting Started
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/0xrajneesh/Wireshark-Projects-for-beginners.git
-    cd Wireshark-Projects-for-beginners
-    ```
-
-2. **Navigate to Each Project Directory:**
-    Each project has its own markdown file with detailed instructions. For example:
-    ```bash
-    cd Wireshark-Projects-for-beginners
-    ```
-
-3. **Follow the Instructions:**
+ **Follow the Instructions:**
     Open the corresponding markdown file and follow the step-by-step instructions to complete the exercises.
 
 Feel free to connect with me on any of these platforms!
